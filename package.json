@@ -1,5 +1,5 @@
 {
-  "name": "@teamkkb/kurasuta",
+  "name": "kurasuta",
   "version": "2.2.3",
   "description": "A Custom discord.js Sharding Library inspired by eris-sharder.",
   "main": "dist/index.js",
